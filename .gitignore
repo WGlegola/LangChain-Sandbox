@@ -1,0 +1,7 @@
+.env
+pyproject.toml
+.python-version
+README.md
+uv.lock
+langchain-course
+__pycache__/
