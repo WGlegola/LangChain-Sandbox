@@ -1,7 +1,8 @@
 .env
-pyproject.toml
-.python-version
-README.md
-uv.lock
+/pyproject.toml
+/.python-version
+/README.md
+/uv.lock
 langchain-course
 __pycache__/
+.DS_Store
