@@ -6,3 +6,4 @@
 langchain-course
 __pycache__/
 .DS_Store
+.ruff_cache
